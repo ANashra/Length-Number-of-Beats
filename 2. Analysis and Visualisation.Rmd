@@ -1,0 +1,145 @@
+---
+title: "VisualisationAndAnalysis"
+author: "Nashra Ahmad"
+date: '2024-07-08'
+output: 
+  html_document:
+    toc: false
+    number_sections: true
+    theme: flatly
+    highlight: espresso
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Initialise
+
+## Libraries
+
+```{r  libraries,warning=FALSE,message=FALSE}
+library(emmeans)
+library(dplyr)
+library(ggplot2)
+library(ggforce)
+library(tidyverse)
+library(ggplot2)
+library(stringr)
+library(lme4)
+
+```
+
+## Read data
+
+```{r readdata}
+dStudy2<-read.csv('PreprocessedData.csv',skip = 0,header = TRUE)
+dWStudy1<-read.csv('Westerndata_outlierremoved.csv',skip = 0,header = TRUE)
+dWStudy1 <- subset(dWStudy1, select = -c(Familiarity, name))
+dIStudy1<-read.csv('Indiandata_outlierremoved.csv',skip = 0,header = TRUE)
+dIStudy1<- subset(dIStudy1, select = -name)
+```
+
+## Combining data
+
+Deleting cells from Study1
+
+```{r combine}
+dWStudy1$Familiarity <- "Unfamiliar"
+dIStudy1$Familiarity <- "Familiar"
+dcomStudy1 <- rbind(dWStudy1, dIStudy1)
+dcomStudy1 <- dcomStudy1 %>%filter(type != "Naturll" & type != "Naturl2"& type !="Complex" & type != 	"Basic" & type !="sp1") #remove extra stimuli
+dcomStudy1$type <- ifelse(dcomStudy1$type == "sd1", "SD", ifelse(dcomStudy1$type == "Naturl", "Natural", dcomStudy1$type))
+
+#Change this if participant groups change
+dcomStudy1 <- dcomStudy1 %>%filter(!(Familiarity == "Familiar" & Musicianship == "Musician"))#Delete Indian Musicians (Familiar Musicians)
+```
+
+Combine Study 1 and Study 2 Data
+
+```{r combine2}
+dcom <- rbind(dcomStudy1, dStudy2)
+```
+
+Renaming patterns as numbers in a different column
+
+```{r Step1}
+dcom <- dcom %>%mutate(Length = pattern)
+dcom <- dcom %>%mutate(Length = case_when(Length == "Rupak" ~ 7,Length == "Keherva" ~ 8,Length == "Jhaptal" ~ 10,Length == "Teental" ~ 16,))
+
+#dcom is ready for analysis
+```
+
+A Simple Visualisation
+
+```{r Visualise 1}
+data1 <- dcom %>%mutate(Groups = paste(Familiarity, Musicianship, sep = " ")) %>%group_by(pattern, Length, type, Groups, condition)
+
+pd <- position_dodge(width = 0.8) 
+
+vis1 <- data1 %>%summarise(M = mean(similarity), n=n(), SE = sd(similarity) / sqrt(n))
+
+g_plot1 <- ggplot(vis1, aes(x = factor(Length), y = M, color = type)) +
+  geom_point(position = pd) +
+  geom_errorbar(aes(ymin = M - SE, ymax = M + SE), width = 0.2, position = pd) +
+  facet_wrap(. ~ condition + Groups, scales = "free") +
+  scale_y_continuous(limits = c(1, 7), breaks = seq(1, 7, by = 2)) +
+  scale_color_brewer(palette = "Set1") +
+  ylab("Similarity Rating") +
+  xlab("No. of Beats") +
+  theme_bw()
+print(g_plot1)
+ggsave("g_plot1.png", plot = g_plot1, dpi = 300, width = 8, height = 6)
+#plot for effect of length Average
+data1.2 <- data1[, !names(data1) %in% 'condition']
+colnames(data1.2)
+vis1.2 <- data1.2 %>%summarise(M = mean(similarity), n=n(), SE = sd(similarity) / sqrt(n))
+
+g_plot1.2 <- ggplot(vis1.2, aes(x = factor(Length), y = M, color = type)) +
+  geom_point(position = pd) +
+  geom_errorbar(aes(ymin = M - SE, ymax = M + SE), width = 0.2, position = pd) +
+  facet_wrap(. ~ Groups, scales = "free") +
+  scale_y_continuous(limits = c(1, 7), breaks = seq(1, 7, by = 2)) +
+  scale_color_brewer(palette = "Set1") +
+  ylab("Similarity Ratings") +
+  xlab("No. of Beats") +
+  theme_bw()
+print(g_plot1.2)
+ggsave("g_plot1.2.png", plot = g_plot1.2, dpi = 300, width = 8, height = 6)
+```
+
+
+
+# Statisitcs for similarity responses 
+Models and testing
+1. Lmm
+```{r, Version2}
+#dcom2 <- dcom %>% select(-Length)
+
+# Step 1: Fit the Model
+lmer_model1 <- lmer(similarity ~ pattern + Familiarity + Musicianship + condition + type + pattern:Familiarity + pattern:Musicianship + pattern:condition +Familiarity:Musicianship + Familiarity:condition + Musicianship:condition +type:pattern + type:Familiarity + type:Musicianship + type:condition  + (1 | ResponseId), data = dcom)
+
+emm1 <- emmeans(lmer_model1, ~  pattern + Familiarity + Musicianship + condition + type + pattern:Familiarity + pattern:Musicianship + pattern:condition +Familiarity:Musicianship + Familiarity:condition + Musicianship:condition +type:pattern + type:Familiarity + type:Musicianship + type:condition)
+jt<-joint_tests(emm1)
+print(knitr::kable(jt))
+```
+2. Poshoc
+a Overall differences in length with average of Base and test and 
+b Considering effect of Learning
+
+```{r, Version2Learn}
+#a
+emm1 <- emmeans(lmer_model1, ~ Familiarity*Musicianship*type * pattern)
+pairwise_emm1 <- pairs(emm1, by = NULL, adjust = "bonferroni")
+pairwise_summary1 <- summary(pairwise_emm1)
+
+#b
+emm2 <- emmeans(lmer_model1, ~ Familiarity*Musicianship*type * pattern*condition)
+pairwise_emm2 <- pairs(emm2, by = NULL, adjust = "bonferroni")
+pairwise_summary2 <- summary(pairwise_emm2)
+
+
+```

@@ -1,0 +1,397 @@
+"ResponseId","Musicianship","Familiarity","value","condition","pattern","type","value_c","similarity"
+"R_4eWJrJZ1CvXDWz0","Non-Musician","Familiar","Moderately Similar","Base","Keherva","SD","Moderately Similar",4
+"R_4eWJrJZ1CvXDWz0","Non-Musician","Familiar","Very Similar","Base","Keherva","Natural","Very Similar",6
+"R_4eWJrJZ1CvXDWz0","Non-Musician","Familiar","Similar","Test","Keherva","SD","Similar",5
+"R_4eWJrJZ1CvXDWz0","Non-Musician","Familiar","Extremely Similar","Test","Keherva","Natural","Extremely Similar",7
+"R_4NRmSkqawWRlzpp","Non-Musician","Familiar","Slightly Similar","Base","Keherva","SD","Slightly Similar",3
+"R_4NRmSkqawWRlzpp","Non-Musician","Familiar","Extremely Similar","Base","Keherva","Natural","Extremely Similar",7
+"R_4NRmSkqawWRlzpp","Non-Musician","Familiar","Not Similar","Test","Keherva","SD","Not Similar",2
+"R_4NRmSkqawWRlzpp","Non-Musician","Familiar","Extremely Similar","Test","Keherva","Natural","Extremely Similar",7
+"R_4CeltwEIPbhnPQf","Non-Musician","Familiar","Extremely Similar","Base","Keherva","SD","Extremely Similar",7
+"R_4CeltwEIPbhnPQf","Non-Musician","Familiar","Very Similar","Base","Keherva","Natural","Very Similar",6
+"R_4CeltwEIPbhnPQf","Non-Musician","Familiar","Moderately Similar","Test","Keherva","SD","Moderately Similar",4
+"R_4CeltwEIPbhnPQf","Non-Musician","Familiar","Very Similar","Test","Keherva","Natural","Very Similar",6
+"R_4gNnVHYg81Qvqr9","Non-Musician","Familiar","Similar","Base","Jhaptal","SD","Similar",5
+"R_4gNnVHYg81Qvqr9","Non-Musician","Familiar","Extremely Similar","Base","Jhaptal","Natural","Extremely Similar",7
+"R_4gNnVHYg81Qvqr9","Non-Musician","Familiar","Moderately Similar","Test","Jhaptal","SD","Moderately Similar",4
+"R_4gNnVHYg81Qvqr9","Non-Musician","Familiar","Extremely Similar","Test","Jhaptal","Natural","Extremely Similar",7
+"R_8nmRcgrZGzrCpxf","Musician","Unfamiliar","Moderately Similar","Base","Keherva","SD","Moderately Similar",4
+"R_8nmRcgrZGzrCpxf","Musician","Unfamiliar","Extremely Similar","Base","Keherva","Natural","Extremely Similar",7
+"R_8nmRcgrZGzrCpxf","Musician","Unfamiliar","Not Similar","Test","Keherva","SD","Not Similar",2
+"R_8nmRcgrZGzrCpxf","Musician","Unfamiliar","Extremely Similar","Test","Keherva","Natural","Extremely Similar",7
+"R_59tugPBjbAmrQNZ","Musician","Unfamiliar","Not at all similar","Base","Keherva","SD","Not at all similar",1
+"R_59tugPBjbAmrQNZ","Musician","Unfamiliar","Very Similar","Base","Keherva","Natural","Very Similar",6
+"R_59tugPBjbAmrQNZ","Musician","Unfamiliar","Not Similar","Test","Keherva","SD","Not Similar",2
+"R_59tugPBjbAmrQNZ","Musician","Unfamiliar","Extremely Similar","Test","Keherva","Natural","Extremely Similar",7
+"R_4419nyatJkufx4V","Non-Musician","Familiar","Moderately Similar","Base","Keherva","SD","Moderately Similar",4
+"R_4419nyatJkufx4V","Non-Musician","Familiar","Extremely Similar","Base","Keherva","Natural","Extremely Similar",7
+"R_4419nyatJkufx4V","Non-Musician","Familiar","Very Similar","Test","Keherva","SD","Very Similar",6
+"R_4419nyatJkufx4V","Non-Musician","Familiar","Extremely Similar","Test","Keherva","Natural","Extremely Similar",7
+"R_45yIzLi5cyTSJR7","Non-Musician","Familiar","Very Similar","Base","Keherva","SD","Very Similar",6
+"R_45yIzLi5cyTSJR7","Non-Musician","Familiar","Very Similar","Base","Keherva","Natural","Very Similar",6
+"R_45yIzLi5cyTSJR7","Non-Musician","Familiar","Similar","Test","Keherva","SD","Similar",5
+"R_45yIzLi5cyTSJR7","Non-Musician","Familiar","Extremely Similar","Test","Keherva","Natural","Extremely Similar",7
+"R_4uOqJIQX3bw4ONf","Non-Musician","Familiar","Moderately Similar","Base","Jhaptal","SD","Moderately Similar",4
+"R_4uOqJIQX3bw4ONf","Non-Musician","Familiar","Slightly Similar","Base","Jhaptal","Natural","Slightly Similar",3
+"R_4uOqJIQX3bw4ONf","Non-Musician","Familiar","Slightly Similar","Test","Jhaptal","SD","Slightly Similar",3
+"R_4uOqJIQX3bw4ONf","Non-Musician","Familiar","Extremely Similar","Test","Jhaptal","Natural","Extremely Similar",7
+"R_4zsSk2704LQ6WHf","Non-Musician","Familiar","Slightly Similar","Base","Keherva","SD","Slightly Similar",3
+"R_4zsSk2704LQ6WHf","Non-Musician","Familiar","Similar","Base","Keherva","Natural","Similar",5
+"R_4zsSk2704LQ6WHf","Non-Musician","Familiar","Similar","Test","Keherva","SD","Similar",5
+"R_4zsSk2704LQ6WHf","Non-Musician","Familiar","Extremely Similar","Test","Keherva","Natural","Extremely Similar",7
+"R_4YeS1FnSuFp05KZ","Non-Musician","Familiar","Slightly Similar","Base","Jhaptal","SD","Slightly Similar",3
+"R_4YeS1FnSuFp05KZ","Non-Musician","Familiar","Extremely Similar","Base","Jhaptal","Natural","Extremely Similar",7
+"R_4YeS1FnSuFp05KZ","Non-Musician","Familiar","Not at all similar","Test","Jhaptal","SD","Not at all similar",1
+"R_4YeS1FnSuFp05KZ","Non-Musician","Familiar","Extremely Similar","Test","Jhaptal","Natural","Extremely Similar",7
+"R_4dbP9VlCI8PMbd0","Non-Musician","Familiar","Slightly Similar","Base","Jhaptal","SD","Slightly Similar",3
+"R_4dbP9VlCI8PMbd0","Non-Musician","Familiar","Extremely Similar","Base","Jhaptal","Natural","Extremely Similar",7
+"R_4dbP9VlCI8PMbd0","Non-Musician","Familiar","Not at all similar","Test","Jhaptal","SD","Not at all similar",1
+"R_4dbP9VlCI8PMbd0","Non-Musician","Familiar","Extremely Similar","Test","Jhaptal","Natural","Extremely Similar",7
+"R_2MVW3jS8OxeCqNM","Non-Musician","Familiar","Not Similar","Base","Keherva","SD","Not Similar",2
+"R_2MVW3jS8OxeCqNM","Non-Musician","Familiar","Very Similar","Base","Keherva","Natural","Very Similar",6
+"R_2MVW3jS8OxeCqNM","Non-Musician","Familiar","Moderately Similar","Test","Keherva","SD","Moderately Similar",4
+"R_2MVW3jS8OxeCqNM","Non-Musician","Familiar","Extremely Similar","Test","Keherva","Natural","Extremely Similar",7
+"R_4jg4MxL3phEJr4U","Non-Musician","Familiar","Similar","Base","Keherva","SD","Similar",5
+"R_4jg4MxL3phEJr4U","Non-Musician","Familiar","Extremely Similar","Base","Keherva","Natural","Extremely Similar",7
+"R_4jg4MxL3phEJr4U","Non-Musician","Familiar","Similar","Test","Keherva","SD","Similar",5
+"R_4jg4MxL3phEJr4U","Non-Musician","Familiar","Extremely Similar","Test","Keherva","Natural","Extremely Similar",7
+"R_22hcu6xJVVoDbix","Non-Musician","Familiar","Not Similar","Base","Jhaptal","SD","Not Similar",2
+"R_22hcu6xJVVoDbix","Non-Musician","Familiar","Not Similar","Base","Jhaptal","Natural","Not Similar",2
+"R_22hcu6xJVVoDbix","Non-Musician","Familiar","Not Similar","Test","Jhaptal","SD","Not Similar",2
+"R_22hcu6xJVVoDbix","Non-Musician","Familiar","Not Similar","Test","Jhaptal","Natural","Not Similar",2
+"R_5CH3CtKcadAekr4","Non-Musician","Familiar","Very Similar","Base","Keherva","SD","Very Similar",6
+"R_5CH3CtKcadAekr4","Non-Musician","Familiar","Extremely Similar","Base","Keherva","Natural","Extremely Similar",7
+"R_5CH3CtKcadAekr4","Non-Musician","Familiar","Moderately Similar","Test","Keherva","SD","Moderately Similar",4
+"R_5CH3CtKcadAekr4","Non-Musician","Familiar","Extremely Similar","Test","Keherva","Natural","Extremely Similar",7
+"R_4DuY5rmWFdMj0C8","Non-Musician","Familiar","Moderately Similar","Base","Jhaptal","SD","Moderately Similar",4
+"R_4DuY5rmWFdMj0C8","Non-Musician","Familiar","Extremely Similar","Base","Jhaptal","Natural","Extremely Similar",7
+"R_4DuY5rmWFdMj0C8","Non-Musician","Familiar","Not Similar","Test","Jhaptal","SD","Not Similar",2
+"R_4DuY5rmWFdMj0C8","Non-Musician","Familiar","Extremely Similar","Test","Jhaptal","Natural","Extremely Similar",7
+"R_4j9gYQITxZDFT33","Non-Musician","Familiar","Similar","Base","Jhaptal","SD","Similar",5
+"R_4j9gYQITxZDFT33","Non-Musician","Familiar","Extremely Similar","Base","Jhaptal","Natural","Extremely Similar",7
+"R_4j9gYQITxZDFT33","Non-Musician","Familiar","Not Similar","Test","Jhaptal","SD","Not Similar",2
+"R_4j9gYQITxZDFT33","Non-Musician","Familiar","Extremely Similar","Test","Jhaptal","Natural","Extremely Similar",7
+"R_4p9d34dRu09tujD","Non-Musician","Familiar","Similar","Base","Keherva","SD","Similar",5
+"R_4p9d34dRu09tujD","Non-Musician","Familiar","Extremely Similar","Base","Keherva","Natural","Extremely Similar",7
+"R_4p9d34dRu09tujD","Non-Musician","Familiar","Very Similar","Test","Keherva","SD","Very Similar",6
+"R_4p9d34dRu09tujD","Non-Musician","Familiar","Extremely Similar","Test","Keherva","Natural","Extremely Similar",7
+"R_4nilHLoEC0wb878","Non-Musician","Familiar","Very Similar","Base","Keherva","SD","Very Similar",6
+"R_4nilHLoEC0wb878","Non-Musician","Familiar","Very Similar","Base","Keherva","Natural","Very Similar",6
+"R_4nilHLoEC0wb878","Non-Musician","Familiar","Extremely Similar","Test","Keherva","SD","Extremely Similar",7
+"R_4nilHLoEC0wb878","Non-Musician","Familiar","Similar","Test","Keherva","Natural","Similar",5
+"R_60vIHMv2tEnB4kT","Non-Musician","Familiar","Moderately Similar","Base","Keherva","SD","Moderately Similar",4
+"R_60vIHMv2tEnB4kT","Non-Musician","Familiar","Similar","Base","Keherva","Natural","Similar",5
+"R_60vIHMv2tEnB4kT","Non-Musician","Familiar","Not at all similar","Test","Keherva","SD","Not at all similar",1
+"R_60vIHMv2tEnB4kT","Non-Musician","Familiar","Extremely Similar","Test","Keherva","Natural","Extremely Similar",7
+"R_4i0A17swHltiQql","Non-Musician","Familiar","Moderately Similar","Base","Jhaptal","SD","Moderately Similar",4
+"R_4i0A17swHltiQql","Non-Musician","Familiar","Moderately Similar","Base","Jhaptal","Natural","Moderately Similar",4
+"R_4i0A17swHltiQql","Non-Musician","Familiar","Not at all similar","Test","Jhaptal","SD","Not at all similar",1
+"R_4i0A17swHltiQql","Non-Musician","Familiar","Not at all similar","Test","Jhaptal","Natural","Not at all similar",1
+"R_47x5j8JIAH3dmvr","Non-Musician","Familiar","Similar","Base","Keherva","SD","Similar",5
+"R_47x5j8JIAH3dmvr","Non-Musician","Familiar","Very Similar","Base","Keherva","Natural","Very Similar",6
+"R_47x5j8JIAH3dmvr","Non-Musician","Familiar","Extremely Similar","Test","Keherva","SD","Extremely Similar",7
+"R_47x5j8JIAH3dmvr","Non-Musician","Familiar","Slightly Similar","Test","Keherva","Natural","Slightly Similar",3
+"R_4b2WrIwgmRREv4X","Non-Musician","Familiar","Not Similar","Base","Keherva","SD","Not Similar",2
+"R_4b2WrIwgmRREv4X","Non-Musician","Familiar","Similar","Base","Keherva","Natural","Similar",5
+"R_4b2WrIwgmRREv4X","Non-Musician","Familiar","Not Similar","Test","Keherva","SD","Not Similar",2
+"R_4b2WrIwgmRREv4X","Non-Musician","Familiar","Extremely Similar","Test","Keherva","Natural","Extremely Similar",7
+"R_4v8rO34vXB7QHTE","Non-Musician","Familiar","Very Similar","Base","Keherva","SD","Very Similar",6
+"R_4v8rO34vXB7QHTE","Non-Musician","Familiar","Slightly Similar","Base","Keherva","Natural","Slightly Similar",3
+"R_4v8rO34vXB7QHTE","Non-Musician","Familiar","Very Similar","Test","Keherva","SD","Very Similar",6
+"R_4v8rO34vXB7QHTE","Non-Musician","Familiar","Extremely Similar","Test","Keherva","Natural","Extremely Similar",7
+"R_2ltQ0kZFfK5lIYC","Musician","Unfamiliar","Slightly Similar","Base","Jhaptal","SD","Slightly Similar",3
+"R_2ltQ0kZFfK5lIYC","Musician","Unfamiliar","Very Similar","Base","Jhaptal","Natural","Very Similar",6
+"R_2ltQ0kZFfK5lIYC","Musician","Unfamiliar","Not at all similar","Test","Jhaptal","SD","Not at all similar",1
+"R_2ltQ0kZFfK5lIYC","Musician","Unfamiliar","Extremely Similar","Test","Jhaptal","Natural","Extremely Similar",7
+"R_4uX1g34orZLWquC","Non-Musician","Familiar","Moderately Similar","Base","Keherva","SD","Moderately Similar",4
+"R_4uX1g34orZLWquC","Non-Musician","Familiar","Very Similar","Base","Keherva","Natural","Very Similar",6
+"R_4uX1g34orZLWquC","Non-Musician","Familiar","Moderately Similar","Test","Keherva","SD","Moderately Similar",4
+"R_4uX1g34orZLWquC","Non-Musician","Familiar","Very Similar","Test","Keherva","Natural","Very Similar",6
+"R_5jp6cLuLEl70reb","Non-Musician","Unfamiliar","Not Similar","Base","Jhaptal","SD","Not Similar",2
+"R_5jp6cLuLEl70reb","Non-Musician","Unfamiliar","Slightly Similar","Base","Jhaptal","Natural","Slightly Similar",3
+"R_5jp6cLuLEl70reb","Non-Musician","Unfamiliar","Not at all similar","Test","Jhaptal","SD","Not at all similar",1
+"R_5jp6cLuLEl70reb","Non-Musician","Unfamiliar","Extremely Similar","Test","Jhaptal","Natural","Extremely Similar",7
+"R_4MXmX4MaZSkFb3P","Non-Musician","Unfamiliar","Slightly Similar","Base","Keherva","SD","Slightly Similar",3
+"R_4MXmX4MaZSkFb3P","Non-Musician","Unfamiliar","Very Similar","Base","Keherva","Natural","Very Similar",6
+"R_4MXmX4MaZSkFb3P","Non-Musician","Unfamiliar","Very Similar","Test","Keherva","SD","Very Similar",6
+"R_4MXmX4MaZSkFb3P","Non-Musician","Unfamiliar","Extremely Similar","Test","Keherva","Natural","Extremely Similar",7
+"R_455EsIsfsVXutwZ","Non-Musician","Familiar","Similar","Base","Jhaptal","SD","Similar",5
+"R_455EsIsfsVXutwZ","Non-Musician","Familiar","Extremely Similar","Base","Jhaptal","Natural","Extremely Similar",7
+"R_455EsIsfsVXutwZ","Non-Musician","Familiar","Not Similar","Test","Jhaptal","SD","Not Similar",2
+"R_455EsIsfsVXutwZ","Non-Musician","Familiar","Extremely Similar","Test","Jhaptal","Natural","Extremely Similar",7
+"R_8j0AglZakAmUsoN","Musician","Unfamiliar","Very Similar","Base","Keherva","SD","Very Similar",6
+"R_8j0AglZakAmUsoN","Musician","Unfamiliar","Extremely Similar","Base","Keherva","Natural","Extremely Similar",7
+"R_8j0AglZakAmUsoN","Musician","Unfamiliar","Moderately Similar","Test","Keherva","SD","Moderately Similar",4
+"R_8j0AglZakAmUsoN","Musician","Unfamiliar","Extremely Similar","Test","Keherva","Natural","Extremely Similar",7
+"R_4EpeRqwYPLIKsZV","Non-Musician","Familiar","Very Similar","Base","Keherva","SD","Very Similar",6
+"R_4EpeRqwYPLIKsZV","Non-Musician","Familiar","Extremely Similar","Base","Keherva","Natural","Extremely Similar",7
+"R_4EpeRqwYPLIKsZV","Non-Musician","Familiar","Not at all similar","Test","Keherva","SD","Not at all similar",1
+"R_4EpeRqwYPLIKsZV","Non-Musician","Familiar","Extremely Similar","Test","Keherva","Natural","Extremely Similar",7
+"R_2CcYFzAnAALGwO0","Musician","Unfamiliar","Moderately Similar","Base","Keherva","SD","Moderately Similar",4
+"R_2CcYFzAnAALGwO0","Musician","Unfamiliar","Very Similar","Base","Keherva","Natural","Very Similar",6
+"R_2CcYFzAnAALGwO0","Musician","Unfamiliar","Slightly Similar","Test","Keherva","SD","Slightly Similar",3
+"R_2CcYFzAnAALGwO0","Musician","Unfamiliar","Extremely Similar","Test","Keherva","Natural","Extremely Similar",7
+"R_2ivTC53QoPePQye","Musician","Unfamiliar","Moderately Similar","Base","Keherva","SD","Moderately Similar",4
+"R_2ivTC53QoPePQye","Musician","Unfamiliar","Extremely Similar","Base","Keherva","Natural","Extremely Similar",7
+"R_2ivTC53QoPePQye","Musician","Unfamiliar","Similar","Test","Keherva","SD","Similar",5
+"R_2ivTC53QoPePQye","Musician","Unfamiliar","Extremely Similar","Test","Keherva","Natural","Extremely Similar",7
+"R_7fdxVa7fgMqAz4d","Musician","Unfamiliar","Slightly Similar","Base","Jhaptal","SD","Slightly Similar",3
+"R_7fdxVa7fgMqAz4d","Musician","Unfamiliar","Extremely Similar","Base","Jhaptal","Natural","Extremely Similar",7
+"R_7fdxVa7fgMqAz4d","Musician","Unfamiliar","Not at all similar","Test","Jhaptal","SD","Not at all similar",1
+"R_7fdxVa7fgMqAz4d","Musician","Unfamiliar","Extremely Similar","Test","Jhaptal","Natural","Extremely Similar",7
+"R_4l4WZzJ9moEwP5c","Non-Musician","Familiar","Very Similar","Base","Jhaptal","SD","Very Similar",6
+"R_4l4WZzJ9moEwP5c","Non-Musician","Familiar","Very Similar","Base","Jhaptal","Natural","Very Similar",6
+"R_4l4WZzJ9moEwP5c","Non-Musician","Familiar","Moderately Similar","Test","Jhaptal","SD","Moderately Similar",4
+"R_4l4WZzJ9moEwP5c","Non-Musician","Familiar","Very Similar","Test","Jhaptal","Natural","Very Similar",6
+"R_2i9uGVZ3Vva9NiC","Musician","Unfamiliar","Slightly Similar","Base","Keherva","SD","Slightly Similar",3
+"R_2i9uGVZ3Vva9NiC","Musician","Unfamiliar","Extremely Similar","Base","Keherva","Natural","Extremely Similar",7
+"R_2i9uGVZ3Vva9NiC","Musician","Unfamiliar","Slightly Similar","Test","Keherva","SD","Slightly Similar",3
+"R_2i9uGVZ3Vva9NiC","Musician","Unfamiliar","Extremely Similar","Test","Keherva","Natural","Extremely Similar",7
+"R_4rCrn1lTSBfSfUB","Non-Musician","Familiar","Moderately Similar","Base","Jhaptal","SD","Moderately Similar",4
+"R_4rCrn1lTSBfSfUB","Non-Musician","Familiar","Extremely Similar","Base","Jhaptal","Natural","Extremely Similar",7
+"R_4rCrn1lTSBfSfUB","Non-Musician","Familiar","Not at all similar","Test","Jhaptal","SD","Not at all similar",1
+"R_4rCrn1lTSBfSfUB","Non-Musician","Familiar","Extremely Similar","Test","Jhaptal","Natural","Extremely Similar",7
+"R_4VlM0AeLGqntdHR","Non-Musician","Familiar","Similar","Base","Keherva","SD","Similar",5
+"R_4VlM0AeLGqntdHR","Non-Musician","Familiar","Similar","Base","Keherva","Natural","Similar",5
+"R_4VlM0AeLGqntdHR","Non-Musician","Familiar","Slightly Similar","Test","Keherva","SD","Slightly Similar",3
+"R_4VlM0AeLGqntdHR","Non-Musician","Familiar","Slightly Similar","Test","Keherva","Natural","Slightly Similar",3
+"R_8qagcA5dufJtO0O","Non-Musician","Familiar","Similar","Base","Keherva","SD","Similar",5
+"R_8qagcA5dufJtO0O","Non-Musician","Familiar","Similar","Base","Keherva","Natural","Similar",5
+"R_8qagcA5dufJtO0O","Non-Musician","Familiar","Not Similar","Test","Keherva","SD","Not Similar",2
+"R_8qagcA5dufJtO0O","Non-Musician","Familiar","Extremely Similar","Test","Keherva","Natural","Extremely Similar",7
+"R_42RWUHRCqoBHsM6","Non-Musician","Familiar","Slightly Similar","Base","Keherva","SD","Slightly Similar",3
+"R_42RWUHRCqoBHsM6","Non-Musician","Familiar","Similar","Base","Keherva","Natural","Similar",5
+"R_42RWUHRCqoBHsM6","Non-Musician","Familiar","Moderately Similar","Test","Keherva","SD","Moderately Similar",4
+"R_42RWUHRCqoBHsM6","Non-Musician","Familiar","Similar","Test","Keherva","Natural","Similar",5
+"R_2NP0QvoapgRNqh3","Non-Musician","Familiar","Very Similar","Base","Jhaptal","SD","Very Similar",6
+"R_2NP0QvoapgRNqh3","Non-Musician","Familiar","Slightly Similar","Base","Jhaptal","Natural","Slightly Similar",3
+"R_2NP0QvoapgRNqh3","Non-Musician","Familiar","Extremely Similar","Test","Jhaptal","SD","Extremely Similar",7
+"R_2NP0QvoapgRNqh3","Non-Musician","Familiar","Similar","Test","Jhaptal","Natural","Similar",5
+"R_4zusfwlS9HlBSjR","Non-Musician","Familiar","Extremely Similar","Base","Jhaptal","SD","Extremely Similar",7
+"R_4zusfwlS9HlBSjR","Non-Musician","Familiar","Extremely Similar","Base","Jhaptal","Natural","Extremely Similar",7
+"R_4zusfwlS9HlBSjR","Non-Musician","Familiar","Extremely Similar","Test","Jhaptal","SD","Extremely Similar",7
+"R_4zusfwlS9HlBSjR","Non-Musician","Familiar","Extremely Similar","Test","Jhaptal","Natural","Extremely Similar",7
+"R_4Vh1BJGnJtFjh97","Non-Musician","Familiar","Not at all similar","Base","Keherva","SD","Not at all similar",1
+"R_4Vh1BJGnJtFjh97","Non-Musician","Familiar","Moderately Similar","Base","Keherva","Natural","Moderately Similar",4
+"R_4Vh1BJGnJtFjh97","Non-Musician","Familiar","Not at all similar","Test","Keherva","SD","Not at all similar",1
+"R_4Vh1BJGnJtFjh97","Non-Musician","Familiar","Similar","Test","Keherva","Natural","Similar",5
+"R_4Kvjp0WoW3UOfdk","Non-Musician","Familiar","Not Similar","Base","Keherva","SD","Not Similar",2
+"R_4Kvjp0WoW3UOfdk","Non-Musician","Familiar","Similar","Base","Keherva","Natural","Similar",5
+"R_4Kvjp0WoW3UOfdk","Non-Musician","Familiar","Not at all similar","Test","Keherva","SD","Not at all similar",1
+"R_4Kvjp0WoW3UOfdk","Non-Musician","Familiar","Very Similar","Test","Keherva","Natural","Very Similar",6
+"R_32PBfWCWCtp8JSP","Musician","Unfamiliar","Moderately Similar","Base","Jhaptal","SD","Moderately Similar",4
+"R_32PBfWCWCtp8JSP","Musician","Unfamiliar","Very Similar","Base","Jhaptal","Natural","Very Similar",6
+"R_32PBfWCWCtp8JSP","Musician","Unfamiliar","Similar","Test","Jhaptal","SD","Similar",5
+"R_32PBfWCWCtp8JSP","Musician","Unfamiliar","Extremely Similar","Test","Jhaptal","Natural","Extremely Similar",7
+"R_83dl8zggP4Cd5IT","Musician","Unfamiliar","Moderately Similar","Base","Jhaptal","SD","Moderately Similar",4
+"R_83dl8zggP4Cd5IT","Musician","Unfamiliar","Extremely Similar","Base","Jhaptal","Natural","Extremely Similar",7
+"R_83dl8zggP4Cd5IT","Musician","Unfamiliar","Moderately Similar","Test","Jhaptal","SD","Moderately Similar",4
+"R_83dl8zggP4Cd5IT","Musician","Unfamiliar","Extremely Similar","Test","Jhaptal","Natural","Extremely Similar",7
+"R_4KrUJ9OG9VnhLEX","Non-Musician","Familiar","Very Similar","Base","Keherva","SD","Very Similar",6
+"R_4KrUJ9OG9VnhLEX","Non-Musician","Familiar","Extremely Similar","Base","Keherva","Natural","Extremely Similar",7
+"R_4KrUJ9OG9VnhLEX","Non-Musician","Familiar","Similar","Test","Keherva","SD","Similar",5
+"R_4KrUJ9OG9VnhLEX","Non-Musician","Familiar","Extremely Similar","Test","Keherva","Natural","Extremely Similar",7
+"R_8r00HWk5b5y7gwM","Musician","Unfamiliar","Similar","Base","Jhaptal","SD","Similar",5
+"R_8r00HWk5b5y7gwM","Musician","Unfamiliar","Similar","Base","Jhaptal","Natural","Similar",5
+"R_8r00HWk5b5y7gwM","Musician","Unfamiliar","Similar","Test","Jhaptal","SD","Similar",5
+"R_8r00HWk5b5y7gwM","Musician","Unfamiliar","Extremely Similar","Test","Jhaptal","Natural","Extremely Similar",7
+"R_2rtgQW4sQa1P517","Musician","Unfamiliar","Moderately Similar","Base","Keherva","SD","Moderately Similar",4
+"R_2rtgQW4sQa1P517","Musician","Unfamiliar","Extremely Similar","Base","Keherva","Natural","Extremely Similar",7
+"R_2rtgQW4sQa1P517","Musician","Unfamiliar","Not at all similar","Test","Keherva","SD","Not at all similar",1
+"R_2rtgQW4sQa1P517","Musician","Unfamiliar","Extremely Similar","Test","Keherva","Natural","Extremely Similar",7
+"R_8QLvSwFgNaCvFqV","Musician","Unfamiliar","Moderately Similar","Base","Jhaptal","SD","Moderately Similar",4
+"R_8QLvSwFgNaCvFqV","Musician","Unfamiliar","Extremely Similar","Base","Jhaptal","Natural","Extremely Similar",7
+"R_8QLvSwFgNaCvFqV","Musician","Unfamiliar","Not Similar","Test","Jhaptal","SD","Not Similar",2
+"R_8QLvSwFgNaCvFqV","Musician","Unfamiliar","Extremely Similar","Test","Jhaptal","Natural","Extremely Similar",7
+"R_4yjhNpXHFsCYCKl","Non-Musician","Familiar","Moderately Similar","Base","Jhaptal","SD","Moderately Similar",4
+"R_4yjhNpXHFsCYCKl","Non-Musician","Familiar","Not Similar","Base","Jhaptal","Natural","Not Similar",2
+"R_4yjhNpXHFsCYCKl","Non-Musician","Familiar","Slightly Similar","Test","Jhaptal","SD","Slightly Similar",3
+"R_4yjhNpXHFsCYCKl","Non-Musician","Familiar","Extremely Similar","Test","Jhaptal","Natural","Extremely Similar",7
+"R_2IWAg7hZYsuG8dY","Non-Musician","Unfamiliar","Very Similar","Base","Keherva","SD","Very Similar",6
+"R_2IWAg7hZYsuG8dY","Non-Musician","Unfamiliar","Moderately Similar","Base","Keherva","Natural","Moderately Similar",4
+"R_2IWAg7hZYsuG8dY","Non-Musician","Unfamiliar","Similar","Test","Keherva","SD","Similar",5
+"R_2IWAg7hZYsuG8dY","Non-Musician","Unfamiliar","Moderately Similar","Test","Keherva","Natural","Moderately Similar",4
+"R_2AYYPyynPaG1PTz","Musician","Unfamiliar","Very Similar","Base","Keherva","SD","Very Similar",6
+"R_2AYYPyynPaG1PTz","Musician","Unfamiliar","Extremely Similar","Base","Keherva","Natural","Extremely Similar",7
+"R_2AYYPyynPaG1PTz","Musician","Unfamiliar","Very Similar","Test","Keherva","SD","Very Similar",6
+"R_2AYYPyynPaG1PTz","Musician","Unfamiliar","Extremely Similar","Test","Keherva","Natural","Extremely Similar",7
+"R_82SiRdXKv1ORza2","Musician","Unfamiliar","Not at all similar","Base","Keherva","SD","Not at all similar",1
+"R_82SiRdXKv1ORza2","Musician","Unfamiliar","Extremely Similar","Base","Keherva","Natural","Extremely Similar",7
+"R_82SiRdXKv1ORza2","Musician","Unfamiliar","Moderately Similar","Test","Keherva","SD","Moderately Similar",4
+"R_82SiRdXKv1ORza2","Musician","Unfamiliar","Extremely Similar","Test","Keherva","Natural","Extremely Similar",7
+"R_8ML7qpgjys6FOIz","Musician","Unfamiliar","Similar","Base","Jhaptal","SD","Similar",5
+"R_8ML7qpgjys6FOIz","Musician","Unfamiliar","Extremely Similar","Base","Jhaptal","Natural","Extremely Similar",7
+"R_8ML7qpgjys6FOIz","Musician","Unfamiliar","Similar","Test","Jhaptal","SD","Similar",5
+"R_8ML7qpgjys6FOIz","Musician","Unfamiliar","Moderately Similar","Test","Jhaptal","Natural","Moderately Similar",4
+"R_6ekxMjhGRJtbWmZ","Non-Musician","Unfamiliar","Moderately Similar","Base","Jhaptal","SD","Moderately Similar",4
+"R_6ekxMjhGRJtbWmZ","Non-Musician","Unfamiliar","Similar","Base","Jhaptal","Natural","Similar",5
+"R_6ekxMjhGRJtbWmZ","Non-Musician","Unfamiliar","Similar","Test","Jhaptal","SD","Similar",5
+"R_6ekxMjhGRJtbWmZ","Non-Musician","Unfamiliar","Extremely Similar","Test","Jhaptal","Natural","Extremely Similar",7
+"R_2hyd1mvIF3vAW8v","Musician","Unfamiliar","Similar","Base","Keherva","SD","Similar",5
+"R_2hyd1mvIF3vAW8v","Musician","Unfamiliar","Extremely Similar","Base","Keherva","Natural","Extremely Similar",7
+"R_2hyd1mvIF3vAW8v","Musician","Unfamiliar","Moderately Similar","Test","Keherva","SD","Moderately Similar",4
+"R_2hyd1mvIF3vAW8v","Musician","Unfamiliar","Extremely Similar","Test","Keherva","Natural","Extremely Similar",7
+"R_2QneBNkWj7FISXa","Musician","Unfamiliar","Slightly Similar","Base","Jhaptal","SD","Slightly Similar",3
+"R_2QneBNkWj7FISXa","Musician","Unfamiliar","Extremely Similar","Base","Jhaptal","Natural","Extremely Similar",7
+"R_2QneBNkWj7FISXa","Musician","Unfamiliar","Moderately Similar","Test","Jhaptal","SD","Moderately Similar",4
+"R_2QneBNkWj7FISXa","Musician","Unfamiliar","Extremely Similar","Test","Jhaptal","Natural","Extremely Similar",7
+"R_2mPppjnXS83j7Be","Musician","Unfamiliar","Not Similar","Base","Keherva","SD","Not Similar",2
+"R_2mPppjnXS83j7Be","Musician","Unfamiliar","Very Similar","Base","Keherva","Natural","Very Similar",6
+"R_2mPppjnXS83j7Be","Musician","Unfamiliar","Not Similar","Test","Keherva","SD","Not Similar",2
+"R_2mPppjnXS83j7Be","Musician","Unfamiliar","Extremely Similar","Test","Keherva","Natural","Extremely Similar",7
+"R_874pWIXEgCcByVu","Musician","Unfamiliar","Extremely Similar","Base","Jhaptal","SD","Extremely Similar",7
+"R_874pWIXEgCcByVu","Musician","Unfamiliar","Extremely Similar","Base","Jhaptal","Natural","Extremely Similar",7
+"R_874pWIXEgCcByVu","Musician","Unfamiliar","Extremely Similar","Test","Jhaptal","SD","Extremely Similar",7
+"R_874pWIXEgCcByVu","Musician","Unfamiliar","Not at all similar","Test","Jhaptal","Natural","Not at all similar",1
+"R_8nI4ereh2VfbkHX","Non-Musician","Unfamiliar","Moderately Similar","Base","Jhaptal","SD","Moderately Similar",4
+"R_8nI4ereh2VfbkHX","Non-Musician","Unfamiliar","Very Similar","Base","Jhaptal","Natural","Very Similar",6
+"R_8nI4ereh2VfbkHX","Non-Musician","Unfamiliar","Slightly Similar","Test","Jhaptal","SD","Slightly Similar",3
+"R_8nI4ereh2VfbkHX","Non-Musician","Unfamiliar","Extremely Similar","Test","Jhaptal","Natural","Extremely Similar",7
+"R_1qr5X08O3uCvtrH","Musician","Unfamiliar","Moderately Similar","Base","Keherva","SD","Moderately Similar",4
+"R_1qr5X08O3uCvtrH","Musician","Unfamiliar","Extremely Similar","Base","Keherva","Natural","Extremely Similar",7
+"R_1qr5X08O3uCvtrH","Musician","Unfamiliar","Similar","Test","Keherva","SD","Similar",5
+"R_1qr5X08O3uCvtrH","Musician","Unfamiliar","Extremely Similar","Test","Keherva","Natural","Extremely Similar",7
+"R_7N1YdMVKVrd0SWA","Non-Musician","Unfamiliar","Extremely Similar","Base","Jhaptal","SD","Extremely Similar",7
+"R_7N1YdMVKVrd0SWA","Non-Musician","Unfamiliar","Extremely Similar","Base","Jhaptal","Natural","Extremely Similar",7
+"R_7N1YdMVKVrd0SWA","Non-Musician","Unfamiliar","Similar","Test","Jhaptal","SD","Similar",5
+"R_7N1YdMVKVrd0SWA","Non-Musician","Unfamiliar","Extremely Similar","Test","Jhaptal","Natural","Extremely Similar",7
+"R_8DG3kQllA3ve5Gy","Non-Musician","Unfamiliar","Very Similar","Base","Keherva","SD","Very Similar",6
+"R_8DG3kQllA3ve5Gy","Non-Musician","Unfamiliar","Extremely Similar","Base","Keherva","Natural","Extremely Similar",7
+"R_8DG3kQllA3ve5Gy","Non-Musician","Unfamiliar","Slightly Similar","Test","Keherva","SD","Slightly Similar",3
+"R_8DG3kQllA3ve5Gy","Non-Musician","Unfamiliar","Similar","Test","Keherva","Natural","Similar",5
+"R_20MXWAbUIDzQqga","Non-Musician","Unfamiliar","Extremely Similar","Base","Jhaptal","SD","Extremely Similar",7
+"R_20MXWAbUIDzQqga","Non-Musician","Unfamiliar","Extremely Similar","Base","Jhaptal","Natural","Extremely Similar",7
+"R_20MXWAbUIDzQqga","Non-Musician","Unfamiliar","Similar","Test","Jhaptal","SD","Similar",5
+"R_20MXWAbUIDzQqga","Non-Musician","Unfamiliar","Similar","Test","Jhaptal","Natural","Similar",5
+"R_2koykuTthplo2pL","Non-Musician","Unfamiliar","Slightly Similar","Base","Keherva","SD","Slightly Similar",3
+"R_2koykuTthplo2pL","Non-Musician","Unfamiliar","Extremely Similar","Base","Keherva","Natural","Extremely Similar",7
+"R_2koykuTthplo2pL","Non-Musician","Unfamiliar","Similar","Test","Keherva","SD","Similar",5
+"R_2koykuTthplo2pL","Non-Musician","Unfamiliar","Extremely Similar","Test","Keherva","Natural","Extremely Similar",7
+"R_7E4FLq3VQxw9Vnx","Musician","Unfamiliar","Moderately Similar","Base","Keherva","SD","Moderately Similar",4
+"R_7E4FLq3VQxw9Vnx","Musician","Unfamiliar","Extremely Similar","Base","Keherva","Natural","Extremely Similar",7
+"R_7E4FLq3VQxw9Vnx","Musician","Unfamiliar","Moderately Similar","Test","Keherva","SD","Moderately Similar",4
+"R_7E4FLq3VQxw9Vnx","Musician","Unfamiliar","Extremely Similar","Test","Keherva","Natural","Extremely Similar",7
+"R_1qLjLSTQLx9XkNb","Non-Musician","Unfamiliar","Moderately Similar","Base","Jhaptal","SD","Moderately Similar",4
+"R_1qLjLSTQLx9XkNb","Non-Musician","Unfamiliar","Similar","Base","Jhaptal","Natural","Similar",5
+"R_1qLjLSTQLx9XkNb","Non-Musician","Unfamiliar","Not Similar","Test","Jhaptal","SD","Not Similar",2
+"R_1qLjLSTQLx9XkNb","Non-Musician","Unfamiliar","Moderately Similar","Test","Jhaptal","Natural","Moderately Similar",4
+"R_2Ejv6uTOAmPOLHt","Musician","Unfamiliar","Extremely Similar","Base","Keherva","SD","Extremely Similar",7
+"R_2Ejv6uTOAmPOLHt","Musician","Unfamiliar","Extremely Similar","Base","Keherva","Natural","Extremely Similar",7
+"R_2Ejv6uTOAmPOLHt","Musician","Unfamiliar","Moderately Similar","Test","Keherva","SD","Moderately Similar",4
+"R_2Ejv6uTOAmPOLHt","Musician","Unfamiliar","Extremely Similar","Test","Keherva","Natural","Extremely Similar",7
+"R_7kGm90v48Dh2pi9","Non-Musician","Unfamiliar","Similar","Base","Keherva","SD","Similar",5
+"R_7kGm90v48Dh2pi9","Non-Musician","Unfamiliar","Moderately Similar","Base","Keherva","Natural","Moderately Similar",4
+"R_7kGm90v48Dh2pi9","Non-Musician","Unfamiliar","Similar","Test","Keherva","SD","Similar",5
+"R_7kGm90v48Dh2pi9","Non-Musician","Unfamiliar","Extremely Similar","Test","Keherva","Natural","Extremely Similar",7
+"R_7MXKpt7sGkEmvj3","Non-Musician","Unfamiliar","Similar","Base","Jhaptal","SD","Similar",5
+"R_7MXKpt7sGkEmvj3","Non-Musician","Unfamiliar","Extremely Similar","Base","Jhaptal","Natural","Extremely Similar",7
+"R_7MXKpt7sGkEmvj3","Non-Musician","Unfamiliar","Very Similar","Test","Jhaptal","SD","Very Similar",6
+"R_7MXKpt7sGkEmvj3","Non-Musician","Unfamiliar","Extremely Similar","Test","Jhaptal","Natural","Extremely Similar",7
+"R_1MfieeilrYUF03m","Musician","Unfamiliar","Not Similar","Base","Jhaptal","SD","Not Similar",2
+"R_1MfieeilrYUF03m","Musician","Unfamiliar","Very Similar","Base","Jhaptal","Natural","Very Similar",6
+"R_1MfieeilrYUF03m","Musician","Unfamiliar","Very Similar","Test","Jhaptal","SD","Very Similar",6
+"R_1MfieeilrYUF03m","Musician","Unfamiliar","Extremely Similar","Test","Jhaptal","Natural","Extremely Similar",7
+"R_3zoTgerfXVKShyx","Non-Musician","Unfamiliar","Very Similar","Base","Keherva","SD","Very Similar",6
+"R_3zoTgerfXVKShyx","Non-Musician","Unfamiliar","Extremely Similar","Base","Keherva","Natural","Extremely Similar",7
+"R_3zoTgerfXVKShyx","Non-Musician","Unfamiliar","Very Similar","Test","Keherva","SD","Very Similar",6
+"R_3zoTgerfXVKShyx","Non-Musician","Unfamiliar","Extremely Similar","Test","Keherva","Natural","Extremely Similar",7
+"R_8Icj7oBMy7bMHHZ","Non-Musician","Unfamiliar","Similar","Base","Keherva","SD","Similar",5
+"R_8Icj7oBMy7bMHHZ","Non-Musician","Unfamiliar","Similar","Base","Keherva","Natural","Similar",5
+"R_8Icj7oBMy7bMHHZ","Non-Musician","Unfamiliar","Similar","Test","Keherva","SD","Similar",5
+"R_8Icj7oBMy7bMHHZ","Non-Musician","Unfamiliar","Similar","Test","Keherva","Natural","Similar",5
+"R_2PjfENssJjIru9z","Musician","Unfamiliar","Slightly Similar","Base","Jhaptal","SD","Slightly Similar",3
+"R_2PjfENssJjIru9z","Musician","Unfamiliar","Very Similar","Base","Jhaptal","Natural","Very Similar",6
+"R_2PjfENssJjIru9z","Musician","Unfamiliar","Very Similar","Test","Jhaptal","SD","Very Similar",6
+"R_2PjfENssJjIru9z","Musician","Unfamiliar","Moderately Similar","Test","Jhaptal","Natural","Moderately Similar",4
+"R_2o0i2wzqWxfEGNy","Musician","Unfamiliar","Not Similar","Base","Jhaptal","SD","Not Similar",2
+"R_2o0i2wzqWxfEGNy","Musician","Unfamiliar","Very Similar","Base","Jhaptal","Natural","Very Similar",6
+"R_2o0i2wzqWxfEGNy","Musician","Unfamiliar","Slightly Similar","Test","Jhaptal","SD","Slightly Similar",3
+"R_2o0i2wzqWxfEGNy","Musician","Unfamiliar","Extremely Similar","Test","Jhaptal","Natural","Extremely Similar",7
+"R_7VElOMKPQh9vwjp","Musician","Unfamiliar","Moderately Similar","Base","Keherva","SD","Moderately Similar",4
+"R_7VElOMKPQh9vwjp","Musician","Unfamiliar","Moderately Similar","Base","Keherva","Natural","Moderately Similar",4
+"R_7VElOMKPQh9vwjp","Musician","Unfamiliar","Extremely Similar","Test","Keherva","SD","Extremely Similar",7
+"R_7VElOMKPQh9vwjp","Musician","Unfamiliar","Similar","Test","Keherva","Natural","Similar",5
+"R_1gLyDpRQGqkr7l7","Non-Musician","Unfamiliar","Similar","Base","Keherva","SD","Similar",5
+"R_1gLyDpRQGqkr7l7","Non-Musician","Unfamiliar","Extremely Similar","Base","Keherva","Natural","Extremely Similar",7
+"R_1gLyDpRQGqkr7l7","Non-Musician","Unfamiliar","Slightly Similar","Test","Keherva","SD","Slightly Similar",3
+"R_1gLyDpRQGqkr7l7","Non-Musician","Unfamiliar","Extremely Similar","Test","Keherva","Natural","Extremely Similar",7
+"R_6IS1WPUWtFfYz2J","Musician","Unfamiliar","Moderately Similar","Base","Jhaptal","SD","Moderately Similar",4
+"R_6IS1WPUWtFfYz2J","Musician","Unfamiliar","Very Similar","Base","Jhaptal","Natural","Very Similar",6
+"R_6IS1WPUWtFfYz2J","Musician","Unfamiliar","Not Similar","Test","Jhaptal","SD","Not Similar",2
+"R_6IS1WPUWtFfYz2J","Musician","Unfamiliar","Very Similar","Test","Jhaptal","Natural","Very Similar",6
+"R_2DT2Jw66gV4j7T4","Musician","Unfamiliar","Similar","Base","Jhaptal","SD","Similar",5
+"R_2DT2Jw66gV4j7T4","Musician","Unfamiliar","Similar","Base","Jhaptal","Natural","Similar",5
+"R_2DT2Jw66gV4j7T4","Musician","Unfamiliar","Very Similar","Test","Jhaptal","SD","Very Similar",6
+"R_2DT2Jw66gV4j7T4","Musician","Unfamiliar","Similar","Test","Jhaptal","Natural","Similar",5
+"R_7m95U22fvWAfiDJ","Non-Musician","Unfamiliar","Similar","Base","Keherva","SD","Similar",5
+"R_7m95U22fvWAfiDJ","Non-Musician","Unfamiliar","Extremely Similar","Base","Keherva","Natural","Extremely Similar",7
+"R_7m95U22fvWAfiDJ","Non-Musician","Unfamiliar","Similar","Test","Keherva","SD","Similar",5
+"R_7m95U22fvWAfiDJ","Non-Musician","Unfamiliar","Extremely Similar","Test","Keherva","Natural","Extremely Similar",7
+"R_2hYvA3EfpyiTIJj","Musician","Unfamiliar","Slightly Similar","Base","Keherva","SD","Slightly Similar",3
+"R_2hYvA3EfpyiTIJj","Musician","Unfamiliar","Extremely Similar","Base","Keherva","Natural","Extremely Similar",7
+"R_2hYvA3EfpyiTIJj","Musician","Unfamiliar","Extremely Similar","Test","Keherva","SD","Extremely Similar",7
+"R_2hYvA3EfpyiTIJj","Musician","Unfamiliar","Extremely Similar","Test","Keherva","Natural","Extremely Similar",7
+"R_2E5SZhduZmLHrNL","Musician","Unfamiliar","Similar","Base","Jhaptal","SD","Similar",5
+"R_2E5SZhduZmLHrNL","Musician","Unfamiliar","Extremely Similar","Base","Jhaptal","Natural","Extremely Similar",7
+"R_2E5SZhduZmLHrNL","Musician","Unfamiliar","Similar","Test","Jhaptal","SD","Similar",5
+"R_2E5SZhduZmLHrNL","Musician","Unfamiliar","Extremely Similar","Test","Jhaptal","Natural","Extremely Similar",7
+"R_2EhVER3tr3M0o5r","Non-Musician","Unfamiliar","Very Similar","Base","Keherva","SD","Very Similar",6
+"R_2EhVER3tr3M0o5r","Non-Musician","Unfamiliar","Similar","Base","Keherva","Natural","Similar",5
+"R_2EhVER3tr3M0o5r","Non-Musician","Unfamiliar","Very Similar","Test","Keherva","SD","Very Similar",6
+"R_2EhVER3tr3M0o5r","Non-Musician","Unfamiliar","Moderately Similar","Test","Keherva","Natural","Moderately Similar",4
+"R_8Ny0XTPHSArmhNX","Non-Musician","Unfamiliar","Slightly Similar","Base","Jhaptal","SD","Slightly Similar",3
+"R_8Ny0XTPHSArmhNX","Non-Musician","Unfamiliar","Very Similar","Base","Jhaptal","Natural","Very Similar",6
+"R_8Ny0XTPHSArmhNX","Non-Musician","Unfamiliar","Moderately Similar","Test","Jhaptal","SD","Moderately Similar",4
+"R_8Ny0XTPHSArmhNX","Non-Musician","Unfamiliar","Extremely Similar","Test","Jhaptal","Natural","Extremely Similar",7
+"R_3UpaEFHizerAuLD","Non-Musician","Unfamiliar","Moderately Similar","Base","Jhaptal","SD","Moderately Similar",4
+"R_3UpaEFHizerAuLD","Non-Musician","Unfamiliar","Moderately Similar","Base","Jhaptal","Natural","Moderately Similar",4
+"R_3UpaEFHizerAuLD","Non-Musician","Unfamiliar","Moderately Similar","Test","Jhaptal","SD","Moderately Similar",4
+"R_3UpaEFHizerAuLD","Non-Musician","Unfamiliar","Extremely Similar","Test","Jhaptal","Natural","Extremely Similar",7
+"R_84zVCaRXD5kt3Js","Non-Musician","Unfamiliar","Extremely Similar","Base","Jhaptal","SD","Extremely Similar",7
+"R_84zVCaRXD5kt3Js","Non-Musician","Unfamiliar","Similar","Base","Jhaptal","Natural","Similar",5
+"R_84zVCaRXD5kt3Js","Non-Musician","Unfamiliar","Extremely Similar","Test","Jhaptal","SD","Extremely Similar",7
+"R_84zVCaRXD5kt3Js","Non-Musician","Unfamiliar","Not Similar","Test","Jhaptal","Natural","Not Similar",2
+"R_8PMmHRDUrtIVtTM","Non-Musician","Unfamiliar","Extremely Similar","Base","Jhaptal","SD","Extremely Similar",7
+"R_8PMmHRDUrtIVtTM","Non-Musician","Unfamiliar","Similar","Base","Jhaptal","Natural","Similar",5
+"R_8PMmHRDUrtIVtTM","Non-Musician","Unfamiliar","Very Similar","Test","Jhaptal","SD","Very Similar",6
+"R_8PMmHRDUrtIVtTM","Non-Musician","Unfamiliar","Extremely Similar","Test","Jhaptal","Natural","Extremely Similar",7
+"R_2Ka5eUEpgYIW4di","Non-Musician","Unfamiliar","Slightly Similar","Base","Keherva","SD","Slightly Similar",3
+"R_2Ka5eUEpgYIW4di","Non-Musician","Unfamiliar","Very Similar","Base","Keherva","Natural","Very Similar",6
+"R_2Ka5eUEpgYIW4di","Non-Musician","Unfamiliar","Similar","Test","Keherva","SD","Similar",5
+"R_2Ka5eUEpgYIW4di","Non-Musician","Unfamiliar","Moderately Similar","Test","Keherva","Natural","Moderately Similar",4
+"R_29AYPLVU1bae3ip","Non-Musician","Unfamiliar","Similar","Base","Keherva","SD","Similar",5
+"R_29AYPLVU1bae3ip","Non-Musician","Unfamiliar","Very Similar","Base","Keherva","Natural","Very Similar",6
+"R_29AYPLVU1bae3ip","Non-Musician","Unfamiliar","Very Similar","Test","Keherva","SD","Very Similar",6
+"R_29AYPLVU1bae3ip","Non-Musician","Unfamiliar","Very Similar","Test","Keherva","Natural","Very Similar",6
+"R_8KfKlqea1Ly1UEU","Non-Musician","Unfamiliar","Very Similar","Base","Jhaptal","SD","Very Similar",6
+"R_8KfKlqea1Ly1UEU","Non-Musician","Unfamiliar","Very Similar","Base","Jhaptal","Natural","Very Similar",6
+"R_8KfKlqea1Ly1UEU","Non-Musician","Unfamiliar","Extremely Similar","Test","Jhaptal","SD","Extremely Similar",7
+"R_8KfKlqea1Ly1UEU","Non-Musician","Unfamiliar","Very Similar","Test","Jhaptal","Natural","Very Similar",6
+"R_5vzko59DUruqFA5","Non-Musician","Unfamiliar","Similar","Base","Keherva","SD","Similar",5
+"R_5vzko59DUruqFA5","Non-Musician","Unfamiliar","Extremely Similar","Base","Keherva","Natural","Extremely Similar",7
+"R_5vzko59DUruqFA5","Non-Musician","Unfamiliar","Very Similar","Test","Keherva","SD","Very Similar",6
+"R_5vzko59DUruqFA5","Non-Musician","Unfamiliar","Extremely Similar","Test","Keherva","Natural","Extremely Similar",7
+"R_8K0I3v2GjAdODVs","Non-Musician","Unfamiliar","Very Similar","Base","Jhaptal","SD","Very Similar",6
+"R_8K0I3v2GjAdODVs","Non-Musician","Unfamiliar","Similar","Base","Jhaptal","Natural","Similar",5
+"R_8K0I3v2GjAdODVs","Non-Musician","Unfamiliar","Similar","Test","Jhaptal","SD","Similar",5
+"R_8K0I3v2GjAdODVs","Non-Musician","Unfamiliar","Similar","Test","Jhaptal","Natural","Similar",5
+"R_2YxpdEqSVR77h4j","Non-Musician","Unfamiliar","Not at all similar","Base","Keherva","SD","Not at all similar",1
+"R_2YxpdEqSVR77h4j","Non-Musician","Unfamiliar","Very Similar","Base","Keherva","Natural","Very Similar",6
+"R_2YxpdEqSVR77h4j","Non-Musician","Unfamiliar","Slightly Similar","Test","Keherva","SD","Slightly Similar",3
+"R_2YxpdEqSVR77h4j","Non-Musician","Unfamiliar","Very Similar","Test","Keherva","Natural","Very Similar",6
+"R_2qm1IXC6JmpuEgb","Non-Musician","Unfamiliar","Slightly Similar","Base","Keherva","SD","Slightly Similar",3
+"R_2qm1IXC6JmpuEgb","Non-Musician","Unfamiliar","Slightly Similar","Base","Keherva","Natural","Slightly Similar",3
+"R_2qm1IXC6JmpuEgb","Non-Musician","Unfamiliar","Moderately Similar","Test","Keherva","SD","Moderately Similar",4
+"R_2qm1IXC6JmpuEgb","Non-Musician","Unfamiliar","Similar","Test","Keherva","Natural","Similar",5
+"R_2GB55aoi3XEr4dY","Non-Musician","Unfamiliar","Not at all similar","Base","Jhaptal","SD","Not at all similar",1
+"R_2GB55aoi3XEr4dY","Non-Musician","Unfamiliar","Moderately Similar","Base","Jhaptal","Natural","Moderately Similar",4
+"R_2GB55aoi3XEr4dY","Non-Musician","Unfamiliar","Not Similar","Test","Jhaptal","SD","Not Similar",2
+"R_2GB55aoi3XEr4dY","Non-Musician","Unfamiliar","Extremely Similar","Test","Jhaptal","Natural","Extremely Similar",7
+"R_2ReJD2y5CPd5n1A","Non-Musician","Unfamiliar","Extremely Similar","Base","Jhaptal","SD","Extremely Similar",7
+"R_2ReJD2y5CPd5n1A","Non-Musician","Unfamiliar","Very Similar","Base","Jhaptal","Natural","Very Similar",6
+"R_2ReJD2y5CPd5n1A","Non-Musician","Unfamiliar","Very Similar","Test","Jhaptal","SD","Very Similar",6
+"R_2ReJD2y5CPd5n1A","Non-Musician","Unfamiliar","Similar","Test","Jhaptal","Natural","Similar",5
+"R_84MYOcJeRw0rS8V","Non-Musician","Unfamiliar","Slightly Similar","Base","Keherva","SD","Slightly Similar",3
+"R_84MYOcJeRw0rS8V","Non-Musician","Unfamiliar","Extremely Similar","Base","Keherva","Natural","Extremely Similar",7
+"R_84MYOcJeRw0rS8V","Non-Musician","Unfamiliar","Slightly Similar","Test","Keherva","SD","Slightly Similar",3
+"R_84MYOcJeRw0rS8V","Non-Musician","Unfamiliar","Not Similar","Test","Keherva","Natural","Not Similar",2

@@ -1,6 +1,6 @@
 ---
 title: "VisualisationAndAnalysis"
-author: "Nashra Ahmad"
+author: "NashraAhmad"
 date: '2024-07-08'
 output: 
   html_document:

@@ -1,7 +1,7 @@
 ## Overview
 This repository contains the R analysis code and datasets used to investigate the role of rhythmic cycle length in rhythm perception.
 
-> The paper associated with this project will be added here once it has completed the peer review process.
+> If you use this repository in any form, please cite this paper: Ahmad, N., Clayton, M., & Eerola, T. (2025). The Effect of Rhythm Cycle Length, Cultural Familiarity, and Musicianship on Learning and Recall of North Indian Rhythmic Patterns. Auditory Perception & Cognition, 1–14. https://doi.org/10.1080/25742442.2025.2586999
 
 ---
 
